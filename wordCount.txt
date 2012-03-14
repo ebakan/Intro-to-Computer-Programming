@@ -1,0 +1,109 @@
+1880. Thomas Edison invents the incandescent light bulb.  1897.  Ferdinand Braun
+
+creates the world’s first CRT display.  1964.  The first plasma screen.  1972. The first
+
+LCD.   And in 1987, the world’s most technologically advanced electronic display technology
+
+was developed: the Organic Light Emitting Diode. The OLED.
+
+        The OLED works almost identically to an ordinary LED with the exception that it
+
+uses organic semiconductors. The OLED is composed of four layers: the cathode terminal, the
+
+emissive layer, the conductive layer, the anode terminal, and the substrate. The more
+
+organic layers an OLED has, the better it works. Extra layers increase an OLED's
+
+efficiency, give it a gradual electronic profile, and/or prevent charges from being wasted.
+
+        There are two steps to how an OLED works. First, a voltage is applied across the
+
+OLED. This causes the anode to become positively charged with the respect to the cathode.
+
+It causes a current of electrons to flow from the cathode to the anode, and the emissive
+
+layer receives electrons from the cathode. On the other hand, the conductive layer loses
+
+electrons, creating electron holes. (Electron holes are basically the lack of an electron.)
+
+Next, negatively charged electrons recombine with the positively charged holes in the
+
+emissive layer. The resulting drop in the energy level of the electrons causes the emission
+
+of visible radiation from the emissive layer, which we, the viewers, see.
+
+        OLEDs are not just an evolutionary step in electronic devices, but an outstanding
+
+revolution in the fields of home and industrial lighting and electronic screens.  OLEDs’
+
+first major benefit is that it does not need a backlight like LCDs.  This provides two
+
+benefits.  First, it allows future OLED screens to produce “true” blacks.  LCDs’ blacks are
+
+currently limited by their backlights, which cannot turn off and constantly “bleed” light
+
+onto the screen.  OLEDs do not have this problem and can create “blacks” in the truest
+
+sense, the absence of light by physically turning individal pixels off.
+
+        Second, this lack of a backlight reduces the power draw of the OLED screens
+
+significantly.  This allows manufacturers to either get the same battery life from a device
+
+out of a smaller battery pack or get a much greater battery life out of the same exact
+
+battery.  Modern phones are almost exclusively designed around their batteries, which limit
+
+their size.  Phones need to be a certain size because who really wants a small phone if it
+
+won’t even last a few hours?  OLEDs’ lower energy requirements allow manufacturers to make
+
+smaller phones with better screens.
+
+        OLEDs also have a much greater range of colors, gamut, brightness, and contrast,
+
+giving these already amazing little screens an even better picture quality than their
+
+power-sucking counterparts.  The screens also have a far smaller response times than LCD
+
+displays, currently 0.01 milliseconds versus 2 ms for the fastest LCDs on the market.  This
+
+allows OLEDs to more effectively show fast moving images such as sports without added
+
+blurriness or an effect known as “ghosting.”
+
+        OLED screens fourthly are much, much, much thinner than other screen technologies. 
+
+Sony’s latest venture into OLED technology yielded a screen only 0.3 millimeters thick! 
+
+That’s a fully functional screen that is less than 4 times the width of a human hair!  In
+
+fact their completed television had an overall thickness of just 3 millimeters!  Truly
+
+amazing.
+
+        Perhaps the greatest advantage of OLEDs is their unique manufacturing process.  The
+
+organic materials can be printed out onto substrates essentially the exact same way your
+
+inkjet printer at home squirts ink onto paper.  First, this will vastly reduce the cost of
+
+OLEDs compared to the expensive manufacturing processes of LCD and plasma screens.  But
+
+secondly, and most importantly, OLEDs can be printed onto flexible surfaces.  In theory, we
+
+could live in a world where we can have little, or even big, electronic screens on our
+
+shirts, our wallpaper, and even our cars!  Someday, you just might have a monitor made of
+
+OLEDs that you can just roll up and carry in your back pocket, making a truly portable
+
+portable computer.
+       
+        So, the next time you think of buying an LCD screen, think again! The OLED will
+
+soon bring about a new age in electronic displays, revolutionizing our technology. Perhaps,
+
+some day, it might even earn a place as one of our greatest technological achievements,
+
+right next to Edison's lightbulb.
